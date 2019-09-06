@@ -1,5 +1,5 @@
 # crispy-spoon
-flask playground
+flask playground based on https://www.linkedin.com/learning/learning-flask-2
 
 ```
 $ heroku login
