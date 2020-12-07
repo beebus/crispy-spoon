@@ -1,3 +1,4 @@
+![Python package](https://github.com/beebus/crispy-spoon/workflows/Python%20package/badge.svg?branch=master)
 # crispy-spoon
 flask playground based on https://www.linkedin.com/learning/learning-flask-2
 
